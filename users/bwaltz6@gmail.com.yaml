@@ -1,0 +1,8 @@
+name: 'Brandon Waltz'
+super: true
+id: 03b16a92-e057-49f7-82dd-a79e135f6bc6
+password_hash: $2y$10$Tr2/5cLgYL7Hbwpt7vzV4.60B0w0lsWhP.CVxG0k9VX5ZMZ16v71i
+preferences:
+  collections:
+    pages:
+      after_save: continue_editing
